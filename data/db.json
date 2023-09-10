@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "prix": 6000,
+      "promotion": false,
+      "stars": 5,
+      "image": "assets/images/1.jpg",
+      "description": "eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    },
+
+    {
+      "id": 2,
+      "name": "Printer",
+      "prix": 900,
+      "promotion": true,
+      "stars": 4,
+      "image": "assets/images/2.jpg",
+      "description": "eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    },
+    {
+      "id": 3,
+      "name": "Smart phone",
+      "prix": 3500,
+      "promotion": true,
+      "stars": 5,
+      "image": "assets/images/3.jpg",
+      "description": "eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    }
+  ]
+}
